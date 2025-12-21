@@ -1,0 +1,5 @@
+{
+  "name": "PRISM - Policy Impact Simulator",
+  "description": "An advanced AI-powered decision support system that simulates the regional impact of public policies using Gemini 2.0 Flash, real-time grounding, and geospatial visualization.",
+  "requestFramePermissions": []
+}
